@@ -1,0 +1,4 @@
+# Başlık
+
+## LİSANS
+![MIT](LICENSE)
