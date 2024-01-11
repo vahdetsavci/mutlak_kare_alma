@@ -6,6 +6,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        new PL(); // Kullanıcıdan alınan veriler işlendikten sonra yazdırılarak kullanıcıya sunulur.
     }
 }
